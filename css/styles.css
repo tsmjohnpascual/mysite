@@ -52,12 +52,12 @@ hr {
 }
 .top-cloud {
   position: absolute;
-  right: 500px;
+  right: 25%;
   top: 50px;
 }
 .bottom-cloud {
   position: absolute;
-  left: 500px;
+  left: 25%;
   bottom: 300px;
 }
 .aboutme-row {
