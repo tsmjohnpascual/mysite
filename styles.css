@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Ink Free', sans-serif;
+  color: #66BFBF;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+p {
+  font-family: 'Dongle', sans-serif;
+  font-size: 1.75rem;
+  margin: 0;
+}
+a {
+  color: #11999E;
+}
+hr {
+  color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 3%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.profile-pic {
+  border-radius: 50%;
+  margin: 50px;
+}
+.topContainer {
+  background-color: #E3FDFD;
+  position: relative;
+  padding-top: 100px;
+}
+.bottomContainer {
+  background: #E3FDFD;
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.top-cloud {
+  position: absolute;
+  right: 25%;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 25%;
+  bottom: 300px;
+}
+.aboutme-row {
+  width: 50%;
+  margin: 50px 475.75px 50px 475.75px;
+  /*margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;*/
+}
+.quali-img {
+  width: 25%;
+  /*float: left;
+  margin-right: 30px;*/
+}
+.skills-img {
+  width: 25%;
+  /*float: left;
+  margin-right: 30px;*/
+}
+.hello {
+  margin-top: 0;
+}
+.spacing {
+  margin: 50px;
+}
+.btn {
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66bfbf;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #11999E;
+  text-decoration: none;
+}
+.footer-link {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.copyright {
+  margin-top: 25px;
+}
